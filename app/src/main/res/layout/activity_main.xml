@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context="com.example.android.leonardo_1202154152_studycase4.MainActivity">
+
+    <Button
+        android:id="@+id/listMahasiswa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="List Mahasiswa"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/margin_bottom"
+        android:layout_marginTop="@dimen/margin_top"
+        android:onClick="allList"/>
+
+    <Button
+        android:id="@+id/listGambar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text="Lihat Gambar"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/margin_bottom"
+        android:layout_marginTop="@dimen/margin_top"
+        android:onClick="lihatGambar"/>
+
+</LinearLayout>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Leonardo_1202154152_studycase4</string>
+    <string name="label_list_mahasiswa">List Mahasiswa</string>
+    <string name="label__button">Mulai AsyncTask</string>
+    <string name="label_cari_gambar">Cari Gambar</string>
+    <string name="label_hint_cari_gmbar">Masukkan URL Gambar</string>
+    <string name="btn_cari_gambar">Klik untuk mencari gambar</string>
+</resources>
